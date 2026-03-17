@@ -1,0 +1,6 @@
+﻿ticket_id,Customer_name,issue_type,priority,status,created_date
+T001,John Lee,Login Issue,High,Open,2026-03-01
+T002,Maria Cruz,Payment Error,Medium,Closed,2026-03-02
+T003,Alex Kim,Account Locked,High,Open,2026-03-02
+T004,Sara Lim,Bug Report,Low,Closed,2026-03-03
+T005,David Park,Login Issue,Medium,Open,2026-03-04
