@@ -23,3 +23,7 @@ Data was created and cleaned in Excel, imported into MySQL, and analyzed using S
 * Filtering (WHERE)
 * Data cleaning
 * Basic data visualization
+
+## 📁 DASHBOARD PREVIEW
+
+![](visualization/dash.jpg)
