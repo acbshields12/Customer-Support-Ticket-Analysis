@@ -34,7 +34,7 @@ Data was created and cleaned in Excel, imported into MySQL, and analyzed using S
 ## 👤 Author
 
 Adriane Clark Ballesteros  
-Healthcare Data Analyst Trainee
+Data Analyst Trainee
 
 * 🔗 GitHub: https://github.com/acbshields12
 
