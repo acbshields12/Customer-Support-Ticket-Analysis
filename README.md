@@ -27,3 +27,14 @@ Data was created and cleaned in Excel, imported into MySQL, and analyzed using S
 ## 📁 DASHBOARD PREVIEW
 
 ![](visualization/dash.jpg)
+
+
+---
+
+## 👤 Author
+
+Adriane Clark Ballesteros-Shields  
+Healthcare Data Analyst Trainee
+
+---
+
