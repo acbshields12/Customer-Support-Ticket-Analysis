@@ -11,6 +11,19 @@ Data was created and cleaned in Excel, imported into MySQL, and analyzed using S
 * MySQL
 * Microsoft Excel
 
+---
+
+## 🤖 Use of AI
+
+AI tools were used to assist in:
+
+* Created realistic synthetic dataset
+* Debugging errors in SQL
+
+All outputs were manually validated and refined to ensure accuracy and reliability.
+
+---
+
 ## Key Insights
 
 * Login issues are the most common problem
